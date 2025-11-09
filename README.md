@@ -20,3 +20,4 @@ First-week challenge for the solar project.
     ```bash
     pip install -r requirements.txt
     ```
+    
